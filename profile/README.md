@@ -49,3 +49,45 @@ Für die Projektplanung verwenden wir **Trello**.
 * Backlog
 * Aufgaben nach Iterationen
 * Zuständigkeiten
+
+---
+
+## 👥 Mitwirkende
+
+### Aktives Team
+
+Diese Personen arbeiten **aktuell** an der HTL Website – Drupal Rebuild:
+
+* **Name Nachname** – Projektleitung / Architektur
+* **Name Nachname** – Theming
+* **Name Nachname** – Custom Modules
+* **Name Nachname** – Infrastruktur & Docker
+
+> Die Liste wird laufend gepflegt.
+
+---
+
+### 📜 Projekt-Historie
+
+Alle bisherigen Mitwirkenden:
+
+```text
+docs/history.md
+```
+
+[User-History](history/user.md)
+
+Diese Datei enthält:
+
+* Name der Person
+* Schuljahr / Jahr(e)
+* Verantwortungsbereich(e)
+
+  * z. B. Theming
+  * Custom Modules
+  * Templates
+  * Infrastruktur
+  * Dokumentation
+
+➡️ Jede Schülergeneration wird dort ergänzt, nichts geht verloren.
+
