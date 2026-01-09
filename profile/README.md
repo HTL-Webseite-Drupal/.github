@@ -43,8 +43,7 @@ Die komplette Entwicklung erfolgt **lokal mit Docker**.
 
 Für die Projektplanung verwenden wir **Trello**.
 
-🔗 **Trello Board (Iteration 1 – erste Gruppe)**
-[https://trello.com/b/IzHLAasT/hauptboard](https://trello.com/b/IzHLAasT/hauptboard)
+🔗 **[Trello Board](https://trello.com/b/IzHLAasT/hauptboard)  (Iteration 1 – erste Gruppe)** 
 
 * Backlog
 * Aufgaben nach Iterationen
