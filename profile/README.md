@@ -57,10 +57,13 @@ Für die Projektplanung verwenden wir **Trello**.
 
 Diese Personen arbeiten **aktuell** an der HTL Website – Drupal Rebuild:
 
-* **Name Nachname** – Projektleitung / Architektur
-* **Name Nachname** – Theming
-* **Name Nachname** – Custom Modules
-* **Name Nachname** – Infrastruktur & Docker
+### Lehrer:
+* **Christian Samegmüller** – Projektleitung / Architektur / Hosting
+* **Tobias zachl** – Grund - Theme idee
+
+### Schüler:
+* **Jannik Kastner** – Custom Modules & Theming
+* **Fynn Mahringer** – Infrastruktur & Custom Module & Documentation
 
 > Die Liste wird laufend gepflegt.
 
