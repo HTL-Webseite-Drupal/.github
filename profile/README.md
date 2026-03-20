@@ -17,7 +17,7 @@ Ziel ist eine **moderne, wartbare und langfristig weiterentwickelbare Website**,
 
 Die vollständige Dokumentation (Setup, Standards, Drupal-Guides) findest du im **Community Wiki**:
 
-➡️ **[community/wiki](../../community/wiki)**
+➡️ **[community/wiki](https://github.com/HTL-Webseite-Drupal/Community/wiki)**
 
 ---
 
