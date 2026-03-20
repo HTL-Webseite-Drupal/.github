@@ -1,95 +1,28 @@
 # HTL Website – Drupal Rebuild
 
-Schulisches Ingenieursprojekt zur **Neuentwicklung der HTL-Website mit Drupal**.
+Schulisches Ingenieursprojekt zur **Neuentwicklung der HTL-Website mit Drupal**.  
 Ziel ist eine **moderne, wartbare und langfristig weiterentwickelbare Website**, die sauber zwischen Schülergenerationen übergeben werden kann.
-
----
-
-## 🎯 Projektziele
-
-* Eigenes **Drupal Theme** (HTL Design)
-* Eigene **Custom Module**
-* Klare Standards für Struktur & Code
-* Saubere Übergabe an nachfolgende Jahrgänge
-* Reproduzierbare Entwicklungsumgebung
 
 ---
 
 ## 🧱 Technologie-Stack
 
-* **Drupal 11**
-* **PHP** (Docker Image)
-* **MariaDB**
-* **Docker & Docker Compose**
-* GitHub für Versionierung & Releases
-* Trello für Projektmanagement
+- **Drupal 11** · **PHP** (Docker) · **MariaDB** · **Docker Compose**
+- GitHub für Versionierung & Releases
+- Trello für Projektmanagement
 
 ---
 
-## 🐳 Infrastruktur
+## 📚 Dokumentation & Wiki
 
-Die komplette Entwicklung erfolgt **lokal mit Docker**.
+Die vollständige Dokumentation (Setup, Standards, Drupal-Guides) findest du im **Community Wiki**:
 
-### Ziele der Infrastruktur
-
-* Einheitliche Dev-Umgebung für alle
-* Kein "funktioniert nur bei mir" Problem
-* Sehr schneller Einstieg für neue Schüler
-* Kein lokales PHP / MySQL Setup nötig
+➡️ **[community/wiki](../../community/wiki)**
 
 ---
 
-## 🗺️ Roadmap & Projektorganisation
+## 🗺️ Projektplanung
 
-Für die Projektplanung verwenden wir **Trello**.
-
-🔗 **[Trello Board](https://trello.com/b/IzHLAasT/hauptboard)  (Iteration 1 – erste Gruppe)** 
-
-* Backlog
-* Aufgaben nach Iterationen
-* Zuständigkeiten
+🔗 [Trello Board](https://trello.com/b/IzHLAasT/hauptboard)
 
 ---
-
-## 👥 Mitwirkende
-
-### Aktives Team
-
-Diese Personen arbeiten **aktuell** an der HTL Website – Drupal Rebuild:
-
-### Lehrer:
-* **Christian Samegmüller** – Projektleitung / Architektur / Hosting
-* **Tobias zachl** – Grund - Theme idee
-
-### Schüler:
-* **Jannik Kastner** – Custom Modules & Theming
-* **Fynn Mahringer** – Infrastruktur & Custom Module & Documentation
-
-> Die Liste wird laufend gepflegt.
-
----
-
-### 📜 Projekt-Historie
-
-Alle bisherigen Mitwirkenden:
-
-```text
-docs/history.md
-```
-
-[User-History](history/user.md)
-
-Diese Datei enthält:
-
-* Name der Person
-* Schuljahr / Jahr(e)
-* Verantwortungsbereich(e)
-
-  * z. B. Theming
-  * Custom Modules
-  * Templates
-  * Infrastruktur
-  * Dokumentation
-
-➡️ Jede Schülergeneration wird dort ergänzt, nichts geht verloren.
-
